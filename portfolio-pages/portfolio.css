@@ -1,0 +1,14 @@
+body {
+  margin: 0%;
+  box-sizing: border-box;
+  min-height: 100vh;
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+footer {
+  bottom: 0;
+  width: 100vw;
+}
